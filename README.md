@@ -15,5 +15,3 @@ Script educativo en Python que demuestra un ataque de diccionario contra un hash
 3 Ejecuta:
    ```bash
    python3 bruteforcer.py
-
-**Importante**: En el archivo **index.html** existe un zip descargable con todos los datos para que se pueda chequear que el proyecto funciona.
